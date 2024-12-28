@@ -12,7 +12,7 @@ Most of my projects are focused on Autonomous UAVs and Deep Learning Application
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannssms)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:raihan.m.syahran@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hanss27)
+
 
 ---
 <!--
