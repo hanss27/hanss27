@@ -8,7 +8,7 @@
 ## 🚀 My Skills
 Most of my projects are focused on Autonomous UAVs and Deep Learning Applications, so my skills are based on that
 - **Programming Languages:** _Proficient_ Python, C++, C, Matlab _Familiar_ Java
-- **Skills**: OpenCV, ROS, ROS2, Deep Learning, Deep Reinforcement Learning, Diffusion Models
+- **Skills**: OpenCV, ROS, Deep Learning, Deep Reinforcement Learning, Diffusion Models
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hannssms)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white)](mailto:raihan.m.syahran@gmail.com)
